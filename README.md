@@ -18,3 +18,7 @@ Static Web Apps, Web Apps
 
 ## Azure Link
 https://thankful-sky-02704ea10.1.azurestaticapps.net/
+
+## Snapshot of Website
+Home Page
+![1](https://user-images.githubusercontent.com/64415837/183249872-3a599c60-d359-4aec-8d62-9309b0d695d3.png)
