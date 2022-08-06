@@ -20,7 +20,7 @@ Static Web Apps, Web Apps
 https://thankful-sky-02704ea10.1.azurestaticapps.net/
 
 ## Github Page Link
-https://yashbhadiyadra.github.io/FRT/
+https://yashbhadiyadra.github.io/Future-Ready-Talent-Virtual-Internship-Project/
 
 ## Snapshot of Website
 Home Page
