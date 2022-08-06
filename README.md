@@ -19,6 +19,9 @@ Static Web Apps, Web Apps
 ## Azure Link
 https://thankful-sky-02704ea10.1.azurestaticapps.net/
 
+## Github Page Link
+https://yashbhadiyadra.github.io/FRT/
+
 ## Snapshot of Website
 Home Page
 
